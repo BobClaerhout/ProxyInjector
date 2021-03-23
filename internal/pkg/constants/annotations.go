@@ -21,6 +21,7 @@ var KeycloakArgs = []string{
 	"openid-provider-proxy",
 	"openid-provider-timeout",
 	"base-uri",
+	"external-base-uri",
 	"oauth-uri",
 	"scopes",
 	"upstream-url",
